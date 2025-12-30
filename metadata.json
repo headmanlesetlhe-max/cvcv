@@ -1,0 +1,5 @@
+{
+  "name": "WebDev Zero to Hero",
+  "description": "An interactive guide for absolute beginners to build and deploy their first website using VS Code and Netlify, featuring an AI tutor.",
+  "requestFramePermissions": []
+}
